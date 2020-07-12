@@ -1,0 +1,17 @@
+$Id:
+
+-----------
+Credits:
+-----------
+
+Big thanks to the developers of the Gallery2 system:
+http://gallery.menalto.com/
+
+XoopsGallery2 is based off of the work done by 
+Francisco Burzi  @  http://phpnuke.org
+and his gallery2 beta for the postnuke CMS
+
+Another big thanks to gstarrett (Glen Starrett) head dood with
+Xoopsgallery.org
+
+My apologies if I missed anyone.
